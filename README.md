@@ -12,7 +12,7 @@ This repository contains all the machine learning projects completed as part of 
 | # | Project | Description |
 |---|---------|-------------|
 | 1️⃣ | [💳 Credit Scoring Model](./CodeAlpha___Credit_scoring_model) | Predicts whether a person is a good or bad credit risk using financial history (income, debt, payment behavior) with Logistic Regression & Random Forest.🟢[Details](CodeAlpha___Credit_scoring_model/README_task1.md) |
-| 2️⃣ | [🩺 Disease Prediction from Medical Data](./CodeAlpha_Disease_Prediction_from_Medical_Data)  | Predicts the likelihood of heart disease from patient medical data using Logistic Regression, Random Forest & SVM. 🟢[Details](CodeAlpha___Disease_Prediction_from_Medical_Data/README_tassk4.md)|
+| 2️⃣ | [🩺 Disease Prediction from Medical Data](./CodeAlpha_Disease_Prediction_from_Medical_Data)  | Predicts the likelihood of heart disease from patient medical data using Logistic Regression, Random Forest & SVM. 🟢[Details](CodeAlpha___Disease_Prediction_from_Medical_Data/README_task4.md)|
 
 ---
 
