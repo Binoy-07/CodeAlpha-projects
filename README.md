@@ -6,7 +6,7 @@
 This repository contains all the machine learning projects completed as part of the **CodeAlpha ML Internship** 🧠
 
 ---
-
+(./CodeAlpha___Credit_scoring_model)
 ## 📁 Projects
 
 | # | Project | Description |
