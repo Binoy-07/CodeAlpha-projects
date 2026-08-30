@@ -6,12 +6,12 @@
 This repository contains all the machine learning projects completed as part of the **CodeAlpha ML Internship** 🧠
 
 ---
-(./CodeAlpha___Credit_scoring_model)
+
 ## 📁 Projects
 
 | # | Project | Description |
 |---|---------|-------------|
-| 1️⃣ | [💳 Credit Scoring Model](./CodeAlpha_Credit_scoring_model) | Predicts whether a person is a good or bad credit risk using financial history (income, debt, payment behavior) with Logistic Regression & Random Forest. |
+| 1️⃣ | [💳 Credit Scoring Model](./CodeAlpha___Credit_scoring_model) | Predicts whether a person is a good or bad credit risk using financial history (income, debt, payment behavior) with Logistic Regression & Random Forest. |
 | 2️⃣ | [🩺 Disease Prediction from Medical Data](./CodeAlpha_Disease_Prediction_from_Medical_Data) | Predicts the likelihood of heart disease from patient medical data using Logistic Regression, Random Forest & SVM. |
 
 ---
