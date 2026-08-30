@@ -70,10 +70,4 @@ python credit_scoring_model.py
 🐍 Python &nbsp;|&nbsp; 🐼 Pandas &nbsp;|&nbsp; 🔢 NumPy &nbsp;|&nbsp; 🤖 Scikit-learn &nbsp;|&nbsp; 📊 Matplotlib &nbsp;|&nbsp; 🎨 Seaborn &nbsp;|&nbsp; 💾 Joblib
 
 ---
-
-## 🏅 Internship Details
-**Internship:** CodeAlpha Machine Learning Internship
-**Task:** 1 of 4 — 💳 Credit Scoring Model
-
----
 ✨ *Made with dedication as part of the CodeAlpha ML Internship journey!* ✨
