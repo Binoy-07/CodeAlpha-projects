@@ -71,10 +71,4 @@ python disease_prediction_model.py
 🐍 Python &nbsp;|&nbsp; 🐼 Pandas &nbsp;|&nbsp; 🔢 NumPy &nbsp;|&nbsp; 🤖 Scikit-learn &nbsp;|&nbsp; 📊 Matplotlib &nbsp;|&nbsp; 🎨 Seaborn &nbsp;|&nbsp; 💾 Joblib
 
 ---
-
-## 🏅 Internship Details
-**Internship:** CodeAlpha Machine Learning Internship
-**Task:** 4 of 4 — 🩺 Disease Prediction from Medical Data
-
----
 ✨ *Made with dedication as part of the CodeAlpha ML Internship journey!* ✨
